@@ -10,17 +10,23 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="495" alt="Zhee Dev GitHub stats" src="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&card_width=495&custom_title=Zhee%20Dev&title_color=f3f4f6&text_color=9ca3af&icon_color=fb7185&border_color=243044&bg_color=151c28&ring_color=fb7185#gh-dark-mode-only" />
-  <img width="495" alt="Zhee Dev GitHub stats" src="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&card_width=495&custom_title=Zhee%20Dev&title_color=111827&text_color=6b7280&icon_color=e11d48&border_color=eceef3&bg_color=ffffff&ring_color=e11d48#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&card_width=495&custom_title=Zhee%20Dev&title_color=f3f4f6&text_color=9ca3af&icon_color=fb7185&border_color=243044&bg_color=151c28&ring_color=fb7185">
+    <img width="495" alt="Zhee Dev GitHub stats" src="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&card_width=495&custom_title=Zhee%20Dev&title_color=111827&text_color=6b7280&icon_color=e11d48&border_color=eceef3&bg_color=ffffff&ring_color=e11d48">
+  </picture>
 </p>
 
 <p align="center">
-  <img width="495" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=hoducminh123&hide_border=false&border_radius=16&background=151C28&border=243044&stroke=3B465C&ring=FB7185&fire=FB7185&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=FDA4AF&sideLabels=9CA3AF&dates=6B7280#gh-dark-mode-only" />
-  <img width="495" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=hoducminh123&hide_border=false&border_radius=16&background=FFFFFF&border=ECEEF3&stroke=E5E7EB&ring=E11D48&fire=E11D48&currStreakNum=111827&sideNums=111827&currStreakLabel=BE123C&sideLabels=6B7280&dates=9CA3AF#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hoducminh123&hide_border=false&border_radius=16&background=151C28&border=243044&stroke=3B465C&ring=FB7185&fire=FB7185&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=FDA4AF&sideLabels=9CA3AF&dates=6B7280">
+    <img width="495" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=hoducminh123&hide_border=false&border_radius=16&background=FFFFFF&border=ECEEF3&stroke=E5E7EB&ring=E11D48&fire=E11D48&currStreakNum=111827&sideNums=111827&currStreakLabel=BE123C&sideLabels=6B7280&dates=9CA3AF">
+  </picture>
 </p>
 
 <p align="center">
-  <img width="495" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hoducminh123&layout=compact&card_width=495&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&title_color=f3f4f6&text_color=9ca3af&border_color=243044&bg_color=151c28&langs_count=5#gh-dark-mode-only" />
-  <img width="495" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hoducminh123&layout=compact&card_width=495&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&title_color=111827&text_color=6b7280&border_color=eceef3&bg_color=ffffff&langs_count=5#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=hoducminh123&layout=compact&card_width=495&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&title_color=f3f4f6&text_color=9ca3af&border_color=243044&bg_color=151c28&langs_count=5">
+    <img width="495" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hoducminh123&layout=compact&card_width=495&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&title_color=111827&text_color=6b7280&border_color=eceef3&bg_color=ffffff&langs_count=5">
+  </picture>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
