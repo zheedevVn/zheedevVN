@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Zhee Dev banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0916"/>
+      <stop offset="0.55" stop-color="#171233"/>
+      <stop offset="1" stop-color="#0b0916"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#f472b6;#22d3ee;#a78bfa" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#22d3ee;#a78bfa;#f472b6" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bgGrad)"/>
+
+  <circle cx="250" cy="90" r="180" fill="url(#glow)">
+    <animate attributeName="cx" values="250;950;250" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="160" r="150" fill="url(#glow)" opacity="0.7">
+    <animate attributeName="cx" values="950;250;950" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="118" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="72" font-weight="800" letter-spacing="2" fill="url(#titleGrad)">Zhee Dev</text>
+  <text x="600" y="168" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="24" fill="#c4b5fd" opacity="0.95">Hồ Đức Minh • Bot Developer</text>
+
+  <path d="M0,205 C240,188 420,222 600,210 C780,198 960,222 1200,205 L1200,240 L0,240 Z" fill="#7c3aed" opacity="0.28"/>
+  <path d="M0,218 C260,204 460,230 640,220 C820,210 980,230 1200,216 L1200,240 L0,240 Z" fill="#a78bfa" opacity="0.18"/>
+</svg>
