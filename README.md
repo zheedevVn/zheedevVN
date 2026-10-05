@@ -88,12 +88,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&custom_title=Zhee%20Dev&theme=tokyonight" alt="Zhee Dev GitHub stats"/>
-  <img height="175em" src="https://streak-stats.demolab.com?user=hoducminh123&hide_border=true&card_width=495&background=1A1B27&border=1A1B27&stroke=414868&ring=BB9AF7&fire=BB9AF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BB9AF7&sideLabels=A9B1D6&dates=565F89" alt="GitHub contribution streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoducminh123&theme=tokyonight" alt="profile details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=hoducminh123&layout=compact&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&langs_count=8&theme=tokyonight" alt="Most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoducminh123&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoducminh123&theme=tokyonight" alt="most commit language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoducminh123&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoducminh123&theme=tokyonight" alt="productive time"/>
 </div>
 
 ### ✍️ Dev Quote
