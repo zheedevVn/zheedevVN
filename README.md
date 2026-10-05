@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/zheedevVn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B+Hi%2C+I%27m+H%C3%B2+%C4%90%E1%BB%A9c+Minh;%F0%9F%A4%96+Bot+Developer+%E2%80%A2+Telegram+%7C+Discord+%7C+Zalo;%E2%9A%A1+Vibe+Coding+%26+Automation+%E2%9A%A1;%F0%9F%8C%90+Building+modern+websites+with+clean+UI%2FUX" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B+Hi%2C+I%27m+H%E1%BB%93+%C4%90%E1%BB%A9c+Minh;%F0%9F%A4%96+Bot+Developer+%E2%80%A2+Telegram+%7C+Discord+%7C+Zalo;%E2%9A%A1+Vibe+Coding+%26+Automation+%E2%9A%A1;%F0%9F%8C%90+Building+modern+websites+with+clean+UI%2FUX" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -87,26 +87,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&card_width=495&custom_title=Zhee%20Dev&title_color=f3f4f6&text_color=9ca3af&icon_color=fb7185&border_color=243044&bg_color=151c28&ring_color=fb7185">
-    <img width="495" alt="Zhee Dev GitHub stats" src="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&card_width=495&custom_title=Zhee%20Dev&title_color=111827&text_color=6b7280&icon_color=e11d48&border_color=eceef3&bg_color=ffffff&ring_color=e11d48">
-  </picture>
-</p>
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.shion.dev/api?username=hoducminh123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&custom_title=Zhee%20Dev&theme=tokyonight" alt="Zhee Dev GitHub stats"/>
+  <img height="175em" src="https://streak-stats.demolab.com?user=hoducminh123&hide_border=true&card_width=495&background=1A1B27&border=1A1B27&stroke=414868&ring=BB9AF7&fire=BB9AF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BB9AF7&sideLabels=A9B1D6&dates=565F89" alt="GitHub contribution streak"/>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hoducminh123&hide_border=false&border_radius=16&background=151C28&border=243044&stroke=3B465C&ring=FB7185&fire=FB7185&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=FDA4AF&sideLabels=9CA3AF&dates=6B7280">
-    <img width="495" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=hoducminh123&hide_border=false&border_radius=16&background=FFFFFF&border=ECEEF3&stroke=E5E7EB&ring=E11D48&fire=E11D48&currStreakNum=111827&sideNums=111827&currStreakLabel=BE123C&sideLabels=6B7280&dates=9CA3AF">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=hoducminh123&layout=compact&card_width=495&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&title_color=f3f4f6&text_color=9ca3af&border_color=243044&bg_color=151c28&langs_count=5">
-    <img width="495" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hoducminh123&layout=compact&card_width=495&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&title_color=111827&text_color=6b7280&border_color=eceef3&bg_color=ffffff&langs_count=5">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=hoducminh123&layout=compact&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&langs_count=8&theme=tokyonight" alt="Most used languages"/>
+</div>
 
 ### ✍️ Dev Quote
 
