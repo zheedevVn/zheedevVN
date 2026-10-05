@@ -89,32 +89,16 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zheedevVn&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zheedevVn&theme=default" alt="profile details">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=zheedevVn&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d7&icon_color=58a6ff&ring_color=1f6feb&show_icons=true&custom_title=Zhee%20Dev">
+  <img src="https://github-readme-stats.shion.dev/api?username=zheedevVn&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=0969da&ring_color=0969da&show_icons=true&custom_title=Zhee%20Dev" alt="GitHub stats">
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs?username=zheedevVn&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d7&icon_color=58a6ff&ring_color=1f6feb&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=zheedevVn&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=0969da&ring_color=0969da&layout=compact&langs_count=8" alt="Top languages">
 </picture>
 </div>
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zheedevVn&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zheedevVn&theme=default" alt="repos per language">
-</picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zheedevVn&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zheedevVn&theme=default" alt="most commit language">
-</picture>
-</div>
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheedevVn&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheedevVn&theme=default" alt="stats">
-</picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zheedevVn&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zheedevVn&theme=default" alt="productive time">
-</picture>
-</div>### ✍️ Dev Quote
+### ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
