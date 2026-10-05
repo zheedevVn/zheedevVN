@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zhee%20Dev&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:6d28d9&height=220&section=header&text=Zhee%20Dev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=H%E1%BB%93%20%C4%90%E1%BB%A9c%20Minh%20%E2%80%A2%20Bot%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <div align="center">
   <a href="https://github.com/zheedevVn">
@@ -107,4 +107,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:6d28d9&height=120&section=footer" alt="footer"/>
