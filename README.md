@@ -88,20 +88,33 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zheedevVn&theme=tokyonight" alt="profile details"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zheedevVn&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zheedevVn&theme=default" alt="profile details">
+</picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zheedevVn&theme=tokyonight" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zheedevVn&theme=tokyonight" alt="most commit language"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zheedevVn&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zheedevVn&theme=default" alt="repos per language">
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zheedevVn&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zheedevVn&theme=default" alt="most commit language">
+</picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheedevVn&theme=tokyonight" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zheedevVn&theme=tokyonight" alt="productive time"/>
-</div>
-
-### ✍️ Dev Quote
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheedevVn&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheedevVn&theme=default" alt="stats">
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zheedevVn&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zheedevVn&theme=default" alt="productive time">
+</picture>
+</div>### ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
